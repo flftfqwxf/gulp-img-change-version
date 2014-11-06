@@ -1,0 +1,22 @@
+{
+  "name": "gulp-img-change-version",
+  "version": "1.0.0",
+  "description": "replace version for images in css files when images is change",
+  "main": "index.js",
+  "dependencies": {
+    "MD5": "^1.2.1"
+  },
+  "devDependencies": {
+    "optimist": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "background-image",
+    "cssimage",
+    "imageversion"
+  ],
+  "author": "flftfqwxf",
+  "license": "MIT"
+}
